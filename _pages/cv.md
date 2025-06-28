@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+This an example wait to update
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
@@ -34,12 +36,7 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
